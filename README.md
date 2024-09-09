@@ -1,2 +1,2 @@
-# DataScience
+# Data Science
 Data Science Classes
